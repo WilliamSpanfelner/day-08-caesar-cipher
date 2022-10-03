@@ -1,12 +1,14 @@
 ![Screenshot](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Caesar_cipher_left_shift_of_3.svg/800px-Caesar_cipher_left_shift_of_3.svg.png)
 ![Screenshot](cipher1.png)
+![Screenshot](cipher2.png)
+![Screenshot](cipher3.png)
 
-# Encrypt and decrypt with Caesar's cipher.
+# Encrypt and decrypt with Caesar's cipher. And refactor.
 - 👋 Hi, I’m @WilliamSpanfelner
 - 👀 I’m interested in using Python with Swift in iOS environments and why it may or may not be desirable.
 - 🌱 I’m currently learning Python with the London App Brewery and Angela Yu's [100 Days of Code: 
 The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/100-days-of-code/) on Udemy.  
-- 🧑‍💻  Cryptography and Caesar's shift cipher - one of the oldest encryption techniques - is explored in this project.  Functions, functions that allow for inputs, Python's version of arrays - lists, loops, conditionals, indices and more.
+- 🧑‍💻  Cryptography and Caesar's shift cipher - one of the oldest encryption techniques - is explored in this project.  Functions, functions that allow for inputs, Python's version of arrays - lists, loops, conditionals, indices, refactoring and more.
 - 💞️ I’m looking to collaborate on application development.
 - 📫 How to reach me...
 
